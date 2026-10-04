@@ -1,12 +1,12 @@
 {
-  "version": "0.51.0",
+  "version": "0.51.1",
   "description": "Portable CI and automation tool for reproducible and auditable pipelines",
   "homepage": "https://microci.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/geraldolsribeiro/microCI/releases/download/v0.51.0/microCI.zip",
-      "hash": "ad369638b3b72123dda317f22d6873b6a34d2575dd6cae81b2eb0810a02af36d"
+      "url": "https://github.com/geraldolsribeiro/microCI/releases/download/v0.51.1/microCI_0.51.1_x86_64.zip",
+      "hash": "dc1fccde3f7733dc8423f5d15bdd5ca1d88195cf940490bc3bfef846ce571485"
     }
   },
   "bin": "microCI.exe",
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/geraldolsribeiro/microCI/releases/download/v$version/microCI.zip"
+        "url": "https://github.com/geraldolsribeiro/microCI/releases/download/v$version/microCI_${version}_x86_64.zip"
       }
     }
   }

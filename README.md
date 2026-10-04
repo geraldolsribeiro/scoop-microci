@@ -8,7 +8,6 @@ This repository provides a [Scoop](https://scoop.sh/) bucket for installing
 Open PowerShell and run:
 
 ```powershell
-scoop install git
 scoop bucket add microci https://github.com/geraldolsribeiro/scoop-microci
 scoop install microci/microci
 ```
