@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/geraldolsribeiro/microCI/releases/download/v0.51.0/microCI.zip",
-      "hash": "fc2b444e885b8ed05d36fa4897899c649b1e03a4ad44fcf0a7043254abcca5bc"
+      "hash": "ad369638b3b72123dda317f22d6873b6a34d2575dd6cae81b2eb0810a02af36d"
     }
   },
   "bin": "microCI.exe",
